@@ -1,0 +1,10 @@
+Malu Amanda Souza;33786953155;Presidente;09683779;1550;002;ContaPoupanca;
+Daniela Natalia Fernandes;85515514858;Cliente;10024223;1845;001;ContaCorrente;
+Vitoria Brenda Martins;01947743252;Diretor;33593579;2050;002;ContaPoupanca;
+Lucas Nelson Neves;40255570538;Gerente;12407168;3000;001;ContaCorrente;
+Nathan Kaue Almeida;21128792192;Presidente;03640341;2000;002;ContaPoupanca;
+Nicole Amanda Matos;55005064710;Cliente;44386620;1000;001;ContaCorrente;
+Maite Aurora Coelho;13260352317;Diretor;97923724;3475;001;ContaCorrente;
+Ruan Matheus Correa;60209195606;Cliente;06587168;2748;002;ContaPoupanca;
+Larissa Debora Alves;77813183150;Cliente;04466044;4030;001;ContaCorrente;
+Davi Elias Fonseca;72415569763;Gerente;99139787;5489;001;ContaCorrente;
